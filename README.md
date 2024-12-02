@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunshin3br0
 - 👀 I’m interested in games and process automation
-- 🌱 I’m currently learning html 
+- 🌱 I’m currently learning how to code with Scratch io
 - 💞️ I’m looking to collaborate on stuff but i'm still too new
 - 📫 You can reach me here
 - 😄 Pronouns: They
